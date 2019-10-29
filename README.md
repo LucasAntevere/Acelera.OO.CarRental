@@ -37,3 +37,6 @@ Por exemplo, caso o cliente alugue um Motor Home do dia 21/10/2019 17:00 ao dia 
 	GPS: R$ 35,00
 	Geladeira: R$ 250,00
 6) Valor total do aluguel:  R$ 1.437,50
+
+Soluções:
+1) https://github.com/LucasAntevere/Acelera.OO.CarRental.Solved
